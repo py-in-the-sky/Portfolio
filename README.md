@@ -1,7 +1,9 @@
 # Portfolio
 Project Portfolio
 
-## AIND
+## Artificial Intelligence
+
+My AI projects, including those I completed during the [Udacity Artificial Intelligence Nanodegree](https://www.udacity.com/ai) (AIND)
 
 TODO:
 Link to AIND and related projects, including Pac Man and [Intermediate Word Search](https://github.com/py-in-the-sky/challenges/tree/master/intermediate_words_search_python) (spruce up intermediate word search and add own heap)
